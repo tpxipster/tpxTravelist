@@ -1,9 +1,7 @@
-Disney+正式发布前已有超过 100 万美国用户
+# Disney+正式发布前已有超过 100 万美国用户
 
 在  2019.11.01  由  [Sarah Perez](https://techcrunch.cn/contributor/sarah-perez/)  ([@sarahintampa](https://twitter.com/sarahintampa))  发布
 
-[章](https://techcrunch.cn/2019/11/01/twitter-government-demands-transparency/)
-![6de6cee585ccb3e4015ffc3c9b95ae16.jpg](../_resources/6de6cee585ccb3e4015ffc3c9b95ae16.jpg)
 
 迪士尼最新的流媒体服务 Disney+要到 11 月中旬才会推出，但根据市场分析公司 Jumpshot 本周发布的最新数据，其美国的注册用户数可能已达到 100 多万。[Jumpshot](https://www.jumpshot.com/)  通过对在线消费者的调查得出这个结论。与此同时，它并不是唯一一家给出乐观预测的机构。
 
@@ -33,4 +31,3 @@ Disney+，Apple TV+，HBO Max，Peacock 和 Quibi 都即将在美国市场亮相
 
 翻译：维金
 
-[Study claims Disney+ already has over a million US subscribers, pre-launch](https://techcrunch.com/2019/10/31/study-claims-disney-already-has-over-a-million-u-s-subscribers-pre-launch/)
