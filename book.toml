@@ -1,0 +1,6 @@
+[book]
+authors = ["Wenbo"]
+language = "en"
+multilingual = false
+src = "."
+
