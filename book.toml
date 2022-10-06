@@ -1,6 +1,11 @@
 [book]
-authors = ["Wenbo"]
+authors = ["tpxipster"]
 language = "en"
 multilingual = false
-src = "."
+src = "./"
+title = "旅游影视"
+
+[output.html]
+mathjax-support = true
+
 
